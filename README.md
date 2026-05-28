@@ -64,7 +64,7 @@ Quick Setup
 
 Example:
 
-http://yourdomain.com/index.php
+https://yourdomain.com/index.php
 
 No database setup, frameworks, or complex configuration required.
 
