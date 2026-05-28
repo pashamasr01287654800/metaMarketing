@@ -81,7 +81,9 @@ Requirements
 Project Structure
 
 /index.php
+
 /abc123.html
+
 /f6d9aa.html
 
 Generated HTML files are automatically created in the same directory.
